@@ -50,3 +50,5 @@ print("\nCategory-wise Revenue:")
 
 for category in category_sales:
     print(category, "=", category_sales[category])
+
+
